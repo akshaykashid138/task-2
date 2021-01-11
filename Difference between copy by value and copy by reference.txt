@@ -1,0 +1,11 @@
+DIfference between copy by value and copy by reference
+
+Copy by value
+-Copy by value is called as deep copy also.
+-All primitive data types in js is by default copy by value.
+-If we assign one variable to another then they both get separate memory space.So if we change value in one varaible it doesn't reflects in another variable.
+
+Copy by reference
+-Copy by reference is called as shollow copy also.
+-All composite data types in js is by default copy by value.
+-If we assign one variable to another then they both have same memory space.So if we change value in one varaible it reflects in another variable.

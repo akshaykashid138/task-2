@@ -1,0 +1,4 @@
+How to copy by value a composite datatype (array+objects).
+
+We can use from() method to create new array from existing array.
+We can use spread operator also.
